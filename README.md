@@ -1,4 +1,5 @@
-[<img src='[assets\Initia-Banner.png](https://github.com/xtgz/initianode/assets/141474535/16c226ff-a2bd-45cb-8a4b-7a9661e3c5ac)' width= '99.9%'>]()
+![image](https://github.com/xtgz/initianode/assets/141474535/a110b87a-ec3f-44cf-a928-7af7e552bb09)
+
 
 ## Tutorial running node initia
 

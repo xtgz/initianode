@@ -79,7 +79,7 @@ initiad q slashing signing-info $(initiad tendermint show-validator)
 initiad tx slashing unjail --from $WALLET_NAME --gas=2000000 --fees=300000uinit -y
 ```
 ### Delegate tokens to your validator 
-edit <AMOUNT> with 1/10/100
+edit #<AMOUNT># with 1/10/100
 ```py 
 initiad tx mstaking delegate $(initiad keys show $WALLET_NAME --bech val -a)  <AMOUNT>uinit --from $WALLET_NAME --gas=2000000 --fees=300000uinit -y
 ```
